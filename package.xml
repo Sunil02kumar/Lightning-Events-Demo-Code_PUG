@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Hospital</members>
+        <members>IndependentCarAccidentNotifier</members>
+        <members>IndependentHospital</members>
+        <members>SK_ApplicationEventDemoApp</members>
+        <members>SK_ComponentEventDemoApp</members>
+        <members>carAccidentAppEvent</members>
+        <members>carAccidentComponentEvent</members>
+        <members>carAccidentNotifier</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>LightningEventsResources</members>
+        <name>StaticResource</name>
+    </types>
+    <version>39.0</version>
+</Package>
